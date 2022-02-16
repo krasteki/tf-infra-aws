@@ -1,5 +1,7 @@
 # This repository creates a VPC in AWS with 3 public and 3 private subnets (default region - eu-west-2 - London)
 
+- graph.svg is showing what terraform will build
+
 ### Prerequisites
 
 - Terraform (version used v1.1.5) - Check [here](https://learn.hashicorp.com/tutorials/terraform/install-cli) for install instructions.
